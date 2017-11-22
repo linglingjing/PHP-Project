@@ -1,0 +1,160 @@
+[ 2017-06-05T11:50:43+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-05T11:50:43+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-05T14:31:22+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-05T14:31:22+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-05T14:31:25+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-05T14:31:25+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-05T14:31:26+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-05T14:31:26+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-05T14:31:35+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0030s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid="1496637756"and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0000s ]
+
+[ 2017-06-05T14:35:12+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0040s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid="1496637756"and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0000s ]
+
+[ 2017-06-05T15:58:37+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-05T15:58:37+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-05T15:58:57+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-05T15:58:57+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-05T15:58:57+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-05T15:58:57+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-05T16:01:45+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-05T16:01:45+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-05T16:01:55+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-05T16:01:55+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-05T16:02:27+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-05T16:02:27+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-05T16:02:43+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-05T16:02:43+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-05T19:48:10+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-05T19:48:10+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-05T19:50:15+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\AppServ\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `onlineorder_dishtype` [ RunTime:0.0006s ]
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`onlineorder`.`onlineorder_dishtypeitem`, CONSTRAINT `onlineorder_dishtypeitem_ibfk_1` FOREIGN KEY (`typeid`) REFERENCES `onlineorder_dishtype` (`id`))
+ [ SQL语句 ] : DELETE FROM `onlineorder_dishtype` WHERE `id` = 6
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`onlineorder`.`onlineorder_dishtypeitem`, CONSTRAINT `onlineorder_dishtypeitem_ibfk_1` FOREIGN KEY (`typeid`) REFERENCES `onlineorder_dishtype` (`id`))
+ [ SQL语句 ] : DELETE FROM `onlineorder_dishtype` WHERE `id` = 6
+
+[ 2017-06-05T19:50:28+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\AppServ\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `onlineorder_dishtypeitem` [ RunTime:0.0008s ]
+SQL: DELETE FROM `onlineorder_dishtypeitem` WHERE `id` = 12 [ RunTime:0.0795s ]
+
+[ 2017-06-05T19:50:34+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\AppServ\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 36 行.
+SQL: SHOW COLUMNS FROM `onlineorder_dishtype` [ RunTime:0.0008s ]
+SQL: DELETE FROM `onlineorder_dishtype` WHERE `id` = 6 [ RunTime:0.0743s ]
+
+[ 2017-06-05T19:51:48+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid="1496637756"and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-06-05T19:51:51+08:00 ] ::1 /onlineorder/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+ERR: 非法操作:Delete
+
+[ 2017-06-05T19:51:59+08:00 ] ::1 /onlineorder/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+ERR: 非法操作:Delete
+
+[ 2017-06-05T19:52:04+08:00 ] ::1 /onlineorder/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+ERR: 非法操作:Delete
+
+[ 2017-06-05T20:09:40+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid="1496589974"and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0006s ]
+
+[ 2017-06-05T20:09:44+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid="1496588070"and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-06-05T20:20:44+08:00 ] ::1 /onlineorder/admin.php/Seat/seatmodify.html
+ERR: 参数错误或者未定义:id
+

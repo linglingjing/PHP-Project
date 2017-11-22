@@ -1,0 +1,1248 @@
+[ 2017-05-17T13:31:56+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:31:56+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:32:05+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0022s ]
+
+[ 2017-05-17T13:32:08+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0021s ]
+
+[ 2017-05-17T13:32:08+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0022s ]
+
+[ 2017-05-17T13:32:09+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0021s ]
+
+[ 2017-05-17T13:32:09+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0027s ]
+
+[ 2017-05-17T13:32:09+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0022s ]
+
+[ 2017-05-17T13:32:10+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0021s ]
+
+[ 2017-05-17T13:32:27+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0026s ]
+
+[ 2017-05-17T13:32:28+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0020s ]
+
+[ 2017-05-17T13:32:29+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0022s ]
+
+[ 2017-05-17T13:32:30+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0020s ]
+
+[ 2017-05-17T13:32:30+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0024s ]
+
+[ 2017-05-17T13:32:57+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0019s ]
+
+[ 2017-05-17T13:32:58+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0019s ]
+
+[ 2017-05-17T13:32:58+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0021s ]
+
+[ 2017-05-17T13:32:59+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:32:59+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:33:01+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:33:02+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:33:03+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:33:04+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:33:04+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:33:04+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:33:05+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:35:58+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:35:58+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:37:05+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:41:21+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:41:21+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:41:26+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:43:33+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:43:33+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:43:37+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:43:39+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:43:39+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:43:40+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:43:40+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:43:40+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:43:42+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:43:43+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:43:44+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:43:44+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:43:44+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:43:44+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:43:45+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:43:45+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:43:46+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:43:46+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:43:46+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:44:19+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:44:24+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:44:26+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:44:48+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:44:48+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:44:53+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:44:54+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:46:35+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:46:36+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:46:37+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:49:37+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:49:37+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:49:37+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:49:37+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:49:41+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:50:01+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:50:01+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:50:04+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:50:35+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:50:35+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:50:36+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:50:36+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:50:39+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:51:07+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:51:07+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:51:10+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:51:42+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:51:42+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:51:45+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:52:32+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:52:32+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:52:35+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0006s ]
+
+[ 2017-05-17T13:53:45+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:53:45+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:53:48+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:54:31+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:54:56+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:56:06+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:56:17+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:56:17+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:56:18+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T13:56:18+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:56:19+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:56:20+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=7 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:56:22+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=7 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:56:23+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=7 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0003s ]
+
+[ 2017-05-17T13:56:24+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:57:32+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T13:59:53+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:59:53+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T13:59:56+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T14:00:26+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T14:00:27+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T14:00:31+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T14:02:34+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T14:02:34+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T14:02:38+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T14:02:40+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T14:02:41+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T14:02:42+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T14:02:43+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=7 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T14:02:44+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=7 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T14:02:45+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=7 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T14:02:45+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=7 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T14:03:10+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T14:03:11+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=7 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T14:03:16+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=6 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T14:03:17+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0004s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=7 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T14:34:19+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T14:34:19+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T14:37:39+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0022s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 6 [ RunTime:0.2085s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001242s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001351s ]
+
+[ 2017-05-17T14:37:44+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T14:37:44+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T14:37:48+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000799s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0007s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 7 [ RunTime:0.1204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2017-05-17T14:39:51+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001372s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0013s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 7 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001507s ]
+
+[ 2017-05-17T14:39:55+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T14:39:55+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T14:45:11+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=8 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0005s ]
+
+[ 2017-05-17T14:45:14+08:00 ] ::1 /test/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0006s ]
+SQL: SELECT a.*,b.name as dishname,b.price,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c WHERE ( orderid=9 and a.dishid=b.id and b.dishtypeid=c.id )  [ RunTime:0.0004s ]
+
+[ 2017-05-17T14:46:06+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0008s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 9 [ RunTime:0.1011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002887s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003018s ]
+
+[ 2017-05-17T14:47:24+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0006s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 8 [ RunTime:0.0761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003294s ]
+
+[ 2017-05-17T14:54:31+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0008s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 10 [ RunTime:0.0547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001166s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001211s ]
+
+[ 2017-05-17T14:55:17+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001114s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0006s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 11 [ RunTime:0.0551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000994s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001052s ]
+
+[ 2017-05-17T15:00:23+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001445s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0025s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 10 [ RunTime:0.0826s ]
+
+[ 2017-05-17T15:01:47+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0007s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 11 [ RunTime:0.0478s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001095s ]
+
+[ 2017-05-17T15:02:32+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0014s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 10 [ RunTime:0.0628s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001084s ]
+
+[ 2017-05-17T15:05:40+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:05:40+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:05:44+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0008s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 11 [ RunTime:0.0441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001114s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001182s ]
+
+[ 2017-05-17T15:08:31+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0007s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 11 [ RunTime:0.0752s ]
+
+[ 2017-05-17T15:13:22+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:13:22+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:13:27+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002633s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0010s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 10 [ RunTime:0.0648s ]
+
+[ 2017-05-17T15:43:02+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:43:02+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:44:14+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:44:14+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:44:56+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:44:56+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:45:42+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:45:42+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:45:43+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:45:43+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:45:43+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:45:43+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:46:53+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:46:53+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:48:04+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:48:04+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:48:06+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-17T15:48:37+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:48:37+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:52:26+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:52:26+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:54:26+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:54:26+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:55:32+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T15:55:32+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:09:52+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:09:52+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:10:43+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:10:43+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:12:33+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:12:33+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:13:01+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:13:01+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:13:12+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:13:12+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:13:16+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:13:16+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:16:00+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:16:00+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:22:47+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:22:47+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:22:48+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:22:48+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:24:28+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:24:29+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:24:29+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:24:29+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:24:30+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:24:30+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:25:44+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:25:44+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:26:51+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:26:51+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:26:52+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:26:52+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:28:28+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:28:28+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:29:18+08:00 ] ::1 /test/admin.php/Order/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001350s ]
+SQL: SHOW COLUMNS FROM `onlineorder_order` [ RunTime:0.0007s ]
+SQL: DELETE FROM `onlineorder_order` WHERE `id` = 11 [ RunTime:0.0538s ]
+
+[ 2017-05-17T16:32:40+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:32:40+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:35:10+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:35:10+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:36:32+08:00 ] ::1 /test/admin.php/Admin/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+SQL: SHOW COLUMNS FROM `onlineorder_admin` [ RunTime:0.0005s ]
+SQL: DELETE FROM `onlineorder_admin` WHERE `id` = 2 [ RunTime:0.0448s ]
+
+[ 2017-05-17T16:36:44+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:36:44+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:36:45+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:36:45+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:37:33+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:37:33+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:37:34+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:37:34+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:37:34+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:37:34+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:37:34+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:37:34+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:39:54+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:39:54+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:40:20+08:00 ] ::1 /test/admin.php/Comment/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001451s ]
+SQL: SHOW COLUMNS FROM `onlineorder_comment` [ RunTime:0.0006s ]
+SQL: DELETE FROM `onlineorder_comment` WHERE `id` = 20 [ RunTime:0.0446s ]
+
+[ 2017-05-17T16:44:48+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:44:48+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:45:11+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:45:11+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-17T16:45:15+08:00 ] ::1 /test/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001640s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0007s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 28 [ RunTime:0.0534s ]
+
+[ 2017-05-17T16:47:31+08:00 ] ::1 /test/admin.php/Dishtype/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtype` [ RunTime:0.0005s ]
+SQL: DELETE FROM `onlineorder_dishtype` WHERE `id` = 2 [ RunTime:0.1022s ]
+
+[ 2017-05-17T16:49:45+08:00 ] ::1 /test/admin.php/Seat/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+SQL: SHOW COLUMNS FROM `onlineorder_seat` [ RunTime:0.0005s ]
+SQL: DELETE FROM `onlineorder_seat` WHERE `id` = 4 [ RunTime:0.0509s ]
+
+[ 2017-05-17T16:51:14+08:00 ] ::1 /test/admin.php/User/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001394s ]
+SQL: SHOW COLUMNS FROM `onlineorder_user` [ RunTime:0.0006s ]
+SQL: DELETE FROM `onlineorder_user` WHERE `id` = 16 [ RunTime:0.0728s ]
+
+[ 2017-05-17T17:39:49+08:00 ] ::1 /test/admin.php/Order/ordermodify.html
+ERR: 参数错误或者未定义:id
+

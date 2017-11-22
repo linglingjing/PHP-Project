@@ -1,0 +1,26 @@
+<div style="min-height: 640px;">
+<div class="container dish">
+	<div class="top">
+		<h3 class="top_h3_top"></h3>
+		<a  class="return" onclick="window.history.go(-1);">&lt;&lt; 返回</a>
+		<div class="left">
+			<img class="addcart_img" src="{$detail_dish.middle_pic}">
+		</div>
+		<div class="right">
+			<hgroup class="dish_info">
+				<h1 class="dish_name">{$detail_dish.name}</h1>
+				<div><label>菜品编号：<span class="dish_id">#{$detail_dish.id}</span></label><label class="dish_pos1">菜品类型：<span class="dish_type">{$detail_dish.firstmenuname}>>{$detail_dish.submenuname}</span></label></div>
+				<div><label>价格：<span class="dish_price"><strong>￥<span class="price">{$detail_dish.price}</span></strong></span></label><label class="dish_pos2">销量：<span class="dish_cellcount">{$detail_dish.sellcount}</span></label></div>
+				<div><label>原材料：</label><p class="dish_formula">{$detail_dish.info}</p></div>
+				<div class="buy_amount">
+					<span class="jian">－</span>
+					<input type="text" class="amount" value="1">
+					<span class="jia">＋</span>
+				</div>
+				<a onclick="getCartlist({$detail_dish.id})"><div class="dish_addCart add_cart">加入购物车</div></a>
+			</hgroup>
+		</div>
+		<h3 class="top_h3_bottom"></h3>
+	</div>
+</div>
+</div>

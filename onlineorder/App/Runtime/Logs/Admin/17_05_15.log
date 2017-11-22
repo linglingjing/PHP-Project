@@ -1,0 +1,31 @@
+[ 2017-05-15T16:29:00+08:00 ] ::1 /test/admin.php/Log/login.html
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-15T16:29:42+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-15T16:29:42+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-15T16:30:59+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-15T16:30:59+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-15T16:31:34+08:00 ] ::1 /test/admin.php/Order/orderlist.html
+ERR: 1054:Unknown column 'a.name' in 'field list'
+ [ SQL语句 ] : SELECT b.*,a.name as username,a.tel as usertel FROM onlineorder_order as a INNER JOIN onlineorder_user as b ON a.userid=b.id  ORDER BY id LIMIT 0,8  
+
+[ 2017-05-15T16:37:46+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-15T16:37:46+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-15T16:39:37+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-15T16:39:37+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+

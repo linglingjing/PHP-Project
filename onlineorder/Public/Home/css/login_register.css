@@ -1,0 +1,76 @@
+body{
+	background: url("../image/lr.png");
+}
+/*input获得焦点时，改变其样式*/
+input.group_p:focus {
+    background: transparent;
+    }
+/**************注册表单样式***开始*****************/
+
+#register_form,#login_form{
+	width: 500px;
+	padding: 1.5em;
+}
+#register_form{
+	margin: 10em auto;
+}
+#login_form{
+	margin: 12em auto;
+}
+#register_form fieldset,#login_form fieldset{
+	border-radius: 4px;
+	border: 1px solid #555;
+	padding: 1em .5em 1em 0;
+}
+legend{
+	text-align: center;
+	padding:0 15px;
+}
+.group_p{
+	text-align: right;
+	padding: .6em 1em;
+	display: block;
+}
+.group_p label{
+	padding-right:10px;
+	position: relative;
+	top: 1px;
+}
+#register_form label.error {
+	width: auto;
+    display: block;
+    color: red;
+    text-align: left;
+    text-indent: 5.5em;
+    padding: 5px 0;
+}
+.group_p input{
+	width: 80%;
+	background: transparent;
+	border: 1px solid #555;
+	height: 3em;
+	line-height: 3em;
+	border-radius: 4px;
+	outline: none;
+	text-indent: .5em;
+}
+
+.group_p .submit{
+	background: transparent;
+}
+/**************注册表单样式***结束*****************/
+
+
+/**************登录表单样式***开始*****************/
+#rem_pwd{
+	padding: 5px 0;
+	text-align: left;
+	text-indent: 6.5em;
+}
+#login_form .group_p{
+	padding-right: 2em;
+}
+#login_form fieldset{
+	padding-bottom: 2em;
+}
+/**************登录表单样式***结束*****************/

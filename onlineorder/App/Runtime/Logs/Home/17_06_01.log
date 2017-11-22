@@ -1,0 +1,40 @@
+[ 2017-06-01T18:43:10+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%7B:U(
+ERR: :
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id={:U( ) LIMIT 1  
+
+[ 2017-06-01T18:43:13+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%7B:U(
+ERR: :
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id={:U( ) LIMIT 1  
+
+[ 2017-06-01T18:52:35+08:00 ] ::1 /onlineorder/index.php/Home/Cart/login.html
+ERR: 非法操作:login
+
+[ 2017-06-01T22:07:09+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 2  [ RunTime:0.0150s ]
+
+[ 2017-06-01T22:07:11+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 7  [ RunTime:0.0020s ]
+
+[ 2017-06-01T22:07:12+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0020s ]
+
+[ 2017-06-01T22:07:13+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.subdishtypeid=c.id and c.typeid=b.id and b.id=1 )  [ RunTime:0.0250s ]
+

@@ -1,0 +1,877 @@
+[ 2017-05-29T10:21:20+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T10:21:20+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T10:25:28+08:00 ] ::1 /onlineorder/admin.php/Dish/modify/0/oldname/1/%E5%9B%9B%E5%96%9C%E4%B8%B8%E5%AD%90.html
+ERR: 参数错误或者未定义:oldname
+
+[ 2017-05-29T10:29:13+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T10:29:13+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T10:29:26+08:00 ] ::1 /onlineorder/admin.php/Dish/modify/0/oldname/1/%E5%9B%9B%E5%96%9C%E4%B8%B8%E5%AD%90.html
+ERR: 参数错误或者未定义:oldname
+
+[ 2017-05-29T10:30:13+08:00 ] ::1 /onlineorder/admin.php/Dish/modify/0/oldname/1/Arrayname.html
+ERR: 参数错误或者未定义:oldname
+
+[ 2017-05-29T10:33:04+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T10:33:04+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T10:33:19+08:00 ] ::1 /onlineorder/admin.php/Dish/modify/0/oldname/1/%E9%9D%9E%E7%A7%AF%E5%88%86.html
+ERR: 参数错误或者未定义:oldname
+
+[ 2017-05-29T10:34:01+08:00 ] ::1 /onlineorder/admin.php/Dish/modify/0/oldname/1/%E5%9B%9B%E5%96%9C%E4%B8%B8%E5%AD%90.html
+ERR: 参数错误或者未定义:oldname
+
+[ 2017-05-29T10:51:24+08:00 ] ::1 /onlineorder/admin.php/Index/dishlist.html
+ERR: 非法操作:dishlist
+
+[ 2017-05-29T10:51:37+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T10:51:37+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T10:52:05+08:00 ] ::1 /onlineorder/admin.php/Dish/getSubtype.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtypeitem` [ RunTime:0.0010s ]
+SQL: SELECT name as sub_name,id as sub_id FROM `onlineorder_dishtypeitem` WHERE `typeid` = 4  [ RunTime:0.0000s ]
+
+[ 2017-05-29T10:52:44+08:00 ] ::1 /onlineorder/admin.php/Dish/modify/0/oldname/1/%E9%82%A3%E5%8A%B2.html
+ERR: 参数错误或者未定义:oldname
+
+[ 2017-05-29T10:53:39+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T10:53:39+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T11:28:28+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T11:28:28+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T11:28:36+08:00 ] ::1 /onlineorder/admin.php/Dish/modify/0/oldname/1/%E9%82%A3%E5%8A%B2.html
+ERR: 参数错误或者未定义:oldname
+
+[ 2017-05-29T11:34:42+08:00 ] ::1 /onlineorder/admin.php/Admin/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `onlineorder_admin` [ RunTime:0.0012s ]
+SQL: DELETE FROM `onlineorder_admin` WHERE `id` = 3 [ RunTime:0.0619s ]
+
+[ 2017-05-29T11:44:55+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T11:44:55+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T11:49:21+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T11:49:21+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T12:02:44+08:00 ] ::1 /onlineorder/admin.php/Dish/modify/0/oldname/1/%E9%82%A3%E5%8A%B2.html
+ERR: 参数错误或者未定义:oldname
+
+[ 2017-05-29T12:13:16+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T12:13:16+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T12:13:17+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T12:13:17+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T12:32:02+08:00 ] ::1 /onlineorder/admin.php/Dishtype/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtype` [ RunTime:0.0006s ]
+SQL: DELETE FROM `onlineorder_dishtype` WHERE `id` = 6 [ RunTime:0.0502s ]
+
+[ 2017-05-29T12:32:48+08:00 ] ::1 /onlineorder/admin.php/Dishtype/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtype` [ RunTime:0.0021s ]
+SQL: DELETE FROM `onlineorder_dishtype` WHERE `id` = 7 [ RunTime:0.0419s ]
+
+[ 2017-05-29T12:34:34+08:00 ] ::1 /onlineorder/admin.php/Dishtype/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtype` [ RunTime:0.0007s ]
+SQL: DELETE FROM `onlineorder_dishtype` WHERE `id` = 8 [ RunTime:0.0648s ]
+
+[ 2017-05-29T12:39:23+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T12:39:23+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T12:41:24+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T12:41:24+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T12:49:42+08:00 ] ::1 /onlineorder/admin.php/Dishtype/subdishtypelist.html
+ERR: 1052:Column 'id' in where clause is ambiguous
+ [ SQL语句 ] : SELECT a.*,b.name as fathertype FROM onlineorder_dishtypeitem as a,onlineorder_dishtype as b WHERE ( id>8 ) ORDER BY id LIMIT 0,8  
+
+[ 2017-05-29T12:49:43+08:00 ] ::1 /onlineorder/admin.php/Dishtype/subdishtypelist.html
+ERR: 1052:Column 'id' in where clause is ambiguous
+ [ SQL语句 ] : SELECT a.*,b.name as fathertype FROM onlineorder_dishtypeitem as a,onlineorder_dishtype as b WHERE ( id>8 ) ORDER BY id LIMIT 0,8  
+
+[ 2017-05-29T12:50:52+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T12:50:52+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:11:10+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:11:10+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:11:13+08:00 ] ::1 /onlineorder/admin.php/Dishtype/dishtypelist.html
+ERR: SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root'@'@localhost' (mot de passe: OUI)
+
+[ 2017-05-29T13:11:42+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:11:42+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:12:04+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `onlineorder_dishtype` [ RunTime:0.0110s ]
+SQL: DELETE FROM `onlineorder_dishtype` WHERE `id` = 6 [ RunTime:0.1050s ]
+
+[ 2017-05-29T13:28:45+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:28:45+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:29:41+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:29:41+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:32:05+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:32:05+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:34:42+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:34:42+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:43:11+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:43:11+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:45:14+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:45:14+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:46:01+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:46:01+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:58:59+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T13:58:59+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T14:02:48+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T14:02:48+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T14:04:35+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T14:04:35+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T15:31:51+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0190s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0110s ]
+ERR: 1054:Champ 'c.typeid' inconnu dans where clause
+ [ SQL语句 ] : SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and c.typeid=c.id ) 
+ERR: 1054:Champ 'c.typeid' inconnu dans where clause
+ [ SQL语句 ] : SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and c.typeid=c.id ) 
+
+[ 2017-05-29T15:32:07+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+ERR: 1054:Champ 'c.typeid' inconnu dans where clause
+ [ SQL语句 ] : SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and c.typeid=c.id ) 
+ERR: 1054:Champ 'c.typeid' inconnu dans where clause
+ [ SQL语句 ] : SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and c.typeid=c.id ) 
+
+[ 2017-05-29T15:33:25+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0250s ]
+
+[ 2017-05-29T15:33:26+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0110s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0010s ]
+
+[ 2017-05-29T15:33:27+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0000s ]
+
+[ 2017-05-29T15:34:55+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0010s ]
+
+[ 2017-05-29T15:35:27+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0170s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0020s ]
+
+[ 2017-05-29T15:35:32+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0010s ]
+
+[ 2017-05-29T15:35:58+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T15:35:58+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T15:36:01+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0150s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=2 and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0010s ]
+
+[ 2017-05-29T15:36:55+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T15:36:55+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T15:36:58+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0010s ]
+
+[ 2017-05-29T15:37:37+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0110s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0010s ]
+NOTIC: [8] Array to string conversion D:\wamp\www\onlineorder\App\Admin\Controller\OrderController.class.php 第 36 行.
+
+[ 2017-05-29T15:39:59+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id )  [ RunTime:0.0010s ]
+
+[ 2017-05-29T15:40:40+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T15:40:40+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T15:40:43+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0120s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id )  [ RunTime:0.0010s ]
+
+[ 2017-05-29T15:42:51+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T15:42:51+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T15:42:59+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id )  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant __sql - assumed '__sql' D:\wamp\www\onlineorder\App\Admin\Controller\OrderController.class.php 第 37 行.
+NOTIC: [8] Array to string conversion D:\wamp\www\onlineorder\App\Admin\Controller\OrderController.class.php 第 37 行.
+
+[ 2017-05-29T15:44:09+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0100s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0010s ]
+
+[ 2017-05-29T15:48:51+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0110s ]
+SQL: SELECT a.*,b.name as dishname,c.name as subdishtype,d.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtypeitem as c,onlineorder_dishtype as d WHERE ( a.orderid=1 and a.dishid=b.id and b.subdishtypeid=c.id and c.typeid=d.id ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2017-05-29T15:49:27+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T15:49:27+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T15:49:31+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0110s ]
+SQL: SELECT a.*,b.name as dishname,c.name as subdishtype,d.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtypeitem as c,onlineorder_dishtype as d WHERE ( a.orderid=1 and a.dishid=b.id and b.subdishtypeid=c.id and c.typeid=d.id ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2017-05-29T15:51:41+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0110s ]
+SQL: SELECT a.*,b.name as dishname,c.name as subdishtype,d.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtypeitem as c,onlineorder_dishtype as d WHERE ( a.orderid=1 and a.dishid=b.id and b.subdishtypeid=c.id and c.typeid=d.id ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-05-29T16:05:45+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0156s ]
+SQL: SELECT a.*,b.name as dishname,c.name as subdishtype,d.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtypeitem as c,onlineorder_dishtype as d WHERE ( a.orderid=1 and a.dishid=b.id and b.subdishtypeid=c.id and c.typeid=d.id ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\wamp\www\onlineorder\App\Admin\Controller\OrderController.class.php 第 39 行.
+
+[ 2017-05-29T16:06:19+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0156s ]
+SQL: SELECT a.*,b.name as dishname,c.name as subdishtype,d.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtypeitem as c,onlineorder_dishtype as d WHERE ( a.orderid=1 and a.dishid=b.id and b.subdishtypeid=c.id and c.typeid=d.id ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\wamp\www\onlineorder\App\Admin\Controller\OrderController.class.php 第 39 行.
+
+[ 2017-05-29T16:07:47+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T16:07:47+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T16:07:52+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0000s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\wamp\www\onlineorder\App\Admin\Controller\OrderController.class.php 第 39 行.
+
+[ 2017-05-29T16:09:55+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T16:09:55+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T16:10:33+08:00 ] ::1 /onlineorder/admin.php/Order/orderlist.html
+ERR: 1064:Erreur de syntaxe près de 'and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid= and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id ) 
+
+[ 2017-05-29T16:10:34+08:00 ] ::1 /onlineorder/admin.php/Order/orderlist.html
+ERR: 1064:Erreur de syntaxe près de 'and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid= and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id ) 
+
+[ 2017-05-29T16:11:30+08:00 ] ::1 /onlineorder/admin.php/Order/getData.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_orderitem` [ RunTime:0.0156s ]
+SQL: SELECT a.*,b.name as dishname,b.price,d.name as subdishtype,c.name as dishtype FROM onlineorder_orderitem as a,onlineorder_dish as b,onlineorder_dishtype as c,onlineorder_dishtypeitem as d WHERE ( orderid=1 and a.dishid=b.id and b.subdishtypeid=d.id and d.typeid=c.id )  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\wamp\www\onlineorder\App\Admin\Controller\OrderController.class.php 第 44 行.
+
+[ 2017-05-29T16:49:36+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 不存在的图像文件
+
+[ 2017-05-29T16:54:03+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 不存在的图像文件
+
+[ 2017-05-29T16:54:48+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 不存在的图像文件
+
+[ 2017-05-29T16:56:09+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 不存在的图像文件
+
+[ 2017-05-29T16:57:54+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 1048:Le champ 'photo1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `onlineorder_dish` (`id`,`name`,`subdishtypeid`,`price`,`info`,`sellcount`,`photo1`,`photo2`,`photo3`) VALUES (NULL,'奶香糯米糍','1','32','沟通',NULL,NULL,'/onlineorder/Public/Upload/Dish/2017-05-29/592be29206603.jpg','/onlineorder/Public/Upload/Dish/2017-05-29/592be2920815c.jpg')
+
+[ 2017-05-29T16:59:27+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 不存在的图像文件
+
+[ 2017-05-29T17:02:35+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 不存在的图像文件
+
+[ 2017-05-29T17:05:00+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 1048:Le champ 'photo1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `onlineorder_dish` (`id`,`name`,`subdishtypeid`,`price`,`info`,`sellcount`,`photo1`,`photo2`,`photo3`) VALUES (NULL,'发送','1','32','萨芬',NULL,NULL,'/onlineorder/Public/Upload/Dish/2017-05-29/592be43bc7dbb.jpg','/onlineorder/Public/Upload/Dish/2017-05-29/592be43bc952c.jpg')
+
+[ 2017-05-29T17:34:03+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 不存在的图像文件
+
+[ 2017-05-29T17:34:53+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 1048:Le champ 'photo1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `onlineorder_dish` (`id`,`name`,`subdishtypeid`,`price`,`info`,`sellcount`,`photo1`,`photo2`,`photo3`) VALUES (NULL,'四喜丸子','1','34','besnsnejt',NULL,NULL,'/onlineorder/Public/Upload/Dish/2017-05-29/592beb3cd209a.jpg','/onlineorder/Public/Upload/Dish/2017-05-29/592beb3cd380a.jpg')
+
+[ 2017-05-29T17:38:22+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 1048:Le champ 'photo1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `onlineorder_dish` (`id`,`name`,`subdishtypeid`,`price`,`info`,`sellcount`,`photo1`,`photo2`,`photo3`) VALUES (NULL,'四喜丸子','1','34','gfxhtxr',NULL,NULL,'/onlineorder/Public/Upload/Dish/2017-05-29/592bec0de625b.jpg','/onlineorder/Public/Upload/Dish/2017-05-29/592bec0de7db4.jpg')
+
+[ 2017-05-29T17:39:31+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 1048:Le champ 'photo1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `onlineorder_dish` (`id`,`name`,`subdishtypeid`,`price`,`info`,`sellcount`,`photo1`,`photo2`,`photo3`) VALUES (NULL,'四喜丸子','1','45','tfsgfgtrh',NULL,NULL,'/onlineorder/Public/Upload/Dish/2017-05-29/592bec534d9ad.jpg','/onlineorder/Public/Upload/Dish/2017-05-29/592bec53500bd.jpg')
+
+[ 2017-05-29T17:40:11+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 1048:Le champ 'photo1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `onlineorder_dish` (`id`,`name`,`subdishtypeid`,`price`,`info`,`sellcount`,`photo1`,`photo2`,`photo3`) VALUES (NULL,'四喜丸子','1','0','fae',NULL,NULL,NULL,NULL)
+
+[ 2017-05-29T17:41:05+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 1048:Le champ 'photo1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `onlineorder_dish` (`id`,`name`,`subdishtypeid`,`price`,`info`,`sellcount`,`photo1`,`photo2`,`photo3`) VALUES (NULL,'四喜丸子','1','342','341234',NULL,NULL,NULL,NULL)
+
+[ 2017-05-29T17:42:02+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 1048:Le champ 'photo1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `onlineorder_dish` (`id`,`name`,`subdishtypeid`,`price`,`info`,`sellcount`,`photo1`,`photo2`,`photo3`) VALUES (NULL,'即佛啊','1','34','打发',NULL,NULL,NULL,NULL)
+
+[ 2017-05-29T17:45:17+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 1048:Le champ 'photo1' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `onlineorder_dish` (`id`,`name`,`subdishtypeid`,`price`,`info`,`sellcount`,`photo1`,`photo2`,`photo3`) VALUES (NULL,'方面是卡了','1','34','爱的方式',NULL,NULL,'/onlineorder/Public/Upload/Dish/2017-05-29/592bedad23f21.jpg','/onlineorder/Public/Upload/Dish/2017-05-29/592bedad25e61.jpg')
+
+[ 2017-05-29T18:06:21+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 22 行.
+ERR: 1146:La table 'onlineorder.onlineorder_' n'existe pas
+ [ SQL语句 ] : DELETE FROM `onlineorder_` WHERE `id` = '2'
+ERR: 1146:La table 'onlineorder.onlineorder_' n'existe pas
+ [ SQL语句 ] : DELETE FROM `onlineorder_` WHERE `id` = '2'
+
+[ 2017-05-29T18:07:07+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 22 行.
+ERR: 1146:La table 'onlineorder.onlineorder_' n'existe pas
+ [ SQL语句 ] : DELETE FROM `onlineorder_` WHERE `id` = '2'
+ERR: 1146:La table 'onlineorder.onlineorder_' n'existe pas
+ [ SQL语句 ] : DELETE FROM `onlineorder_` WHERE `id` = '2'
+
+[ 2017-05-29T18:07:10+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T18:07:10+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T18:07:14+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 22 行.
+ERR: 1146:La table 'onlineorder.onlineorder_' n'existe pas
+ [ SQL语句 ] : DELETE FROM `onlineorder_` WHERE `id` = '2'
+ERR: 1146:La table 'onlineorder.onlineorder_' n'existe pas
+ [ SQL语句 ] : DELETE FROM `onlineorder_` WHERE `id` = '2'
+
+[ 2017-05-29T18:07:19+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 22 行.
+ERR: 1146:La table 'onlineorder.onlineorder_' n'existe pas
+ [ SQL语句 ] : DELETE FROM `onlineorder_` WHERE `id` = '2'
+ERR: 1146:La table 'onlineorder.onlineorder_' n'existe pas
+ [ SQL语句 ] : DELETE FROM `onlineorder_` WHERE `id` = '2'
+
+[ 2017-05-29T18:08:18+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T18:08:18+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T18:08:23+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 22 行.
+ERR: 1146:La table 'onlineorder.onlineorder_' n'existe pas
+ [ SQL语句 ] : DELETE FROM `onlineorder_` WHERE `id` = '2'
+ERR: 1146:La table 'onlineorder.onlineorder_' n'existe pas
+ [ SQL语句 ] : DELETE FROM `onlineorder_` WHERE `id` = '2'
+
+[ 2017-05-29T18:09:45+08:00 ] ::1 /onlineorder/admin.php/Comment/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_comment` [ RunTime:0.0110s ]
+SQL: DELETE FROM `onlineorder_comment` WHERE `id` = 2 [ RunTime:0.0340s ]
+
+[ 2017-05-29T18:11:06+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `onlineorder_comment` [ RunTime:0.0190s ]
+SQL: DELETE FROM `onlineorder_comment` WHERE `id` = 1 [ RunTime:0.0680s ]
+
+[ 2017-05-29T18:11:09+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T18:11:10+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T18:12:08+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `onlineorder_comment` [ RunTime:0.0170s ]
+SQL: DELETE FROM `onlineorder_comment` WHERE `id` = 4 [ RunTime:0.0100s ]
+
+[ 2017-05-29T18:15:15+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `onlineorder_seat` [ RunTime:0.0110s ]
+SQL: DELETE FROM `onlineorder_seat` WHERE `id` = 5 [ RunTime:0.0540s ]
+
+[ 2017-05-29T18:16:41+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 22 行.
+SQL: SHOW COLUMNS FROM `onlineorder_user` [ RunTime:0.0100s ]
+SQL: DELETE FROM `onlineorder_user` WHERE `id` = 29 [ RunTime:0.0370s ]
+
+[ 2017-05-29T18:17:35+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T18:17:35+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T18:20:52+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T18:20:52+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T18:31:24+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T18:31:24+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T18:32:49+08:00 ] ::1 /onlineorder/admin.php/Dish/aewfa
+ERR: 非法操作:aewfa
+
+[ 2017-05-29T18:32:52+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 37 [ RunTime:0.0270s ]
+
+[ 2017-05-29T18:50:50+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 不存在的图像文件
+
+[ 2017-05-29T18:55:44+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 1048:Le champ 'big_pic2' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `onlineorder_dish` (`id`,`name`,`subdishtypeid`,`price`,`info`,`sellcount`,`small_pic`,`middle_pic`,`big_pic1`,`big_pic2`,`big_pic3`) VALUES (NULL,'奶香糯米糍','1','34','343365发vgbv',NULL,'/onlineorder/Public/Upload/Dish/2017-05-29/592bfe3024a41.jpg','/onlineorder/Public/Upload/Dish/2017-05-29/592bfe3026d69.jpg','/onlineorder/Public/Upload/Dish/2017-05-29/592bfe30288c2.jpg',NULL,NULL)
+
+[ 2017-05-29T19:03:10+08:00 ] ::1 /onlineorder/admin.php/Dish/dishlist.html
+ERR: 1054:Champ 'photo1' inconnu dans field list
+ [ SQL语句 ] : SELECT a.id,a.name,b.name as subdishtype,c.name as dishtype,`price`,`info`,`sellcount`,`photo1`,`photo2`,`photo3` FROM onlineorder_dish as a,onlineorder_dishtypeitem as b,onlineorder_dishtype as c WHERE ( b.id=a.subdishtypeid and c.id=b.typeid ) ORDER BY id LIMIT 0,8  
+
+[ 2017-05-29T19:03:27+08:00 ] ::1 /onlineorder/admin.php/Dish/dishlist.html
+ERR: 1054:Champ 'photo1' inconnu dans field list
+ [ SQL语句 ] : SELECT a.id,a.name,b.name as subdishtype,c.name as dishtype,`price`,`info`,`sellcount`,`photo1`,`photo2`,`photo3` FROM onlineorder_dish as a,onlineorder_dishtypeitem as b,onlineorder_dishtype as c WHERE ( b.id=a.subdishtypeid and c.id=b.typeid ) ORDER BY id LIMIT 0,8  
+
+[ 2017-05-29T19:07:16+08:00 ] ::1 /onlineorder/admin.php/Dish/dishlist.html
+ERR: 1054:Champ 'photo1' inconnu dans field list
+ [ SQL语句 ] : SELECT a.id,a.name,b.name as subdishtype,c.name as dishtype,`price`,`info`,`sellcount`,`photo1`,`photo2`,`photo3` FROM onlineorder_dish as a,onlineorder_dishtypeitem as b,onlineorder_dishtype as c WHERE ( b.id=a.subdishtypeid and c.id=b.typeid ) ORDER BY id LIMIT 0,8  
+
+[ 2017-05-29T19:11:31+08:00 ] ::1 /onlineorder/admin.php/Dish/dishlist.html
+ERR: 1054:Champ 'photo1' inconnu dans field list
+ [ SQL语句 ] : SELECT a.id,a.name,b.name as subdishtype,c.name as dishtype,`price`,`info`,`sellcount`,`photo1`,`photo2`,`photo3` FROM onlineorder_dish as a,onlineorder_dishtypeitem as b,onlineorder_dishtype as c WHERE ( b.id=a.subdishtypeid and c.id=b.typeid ) ORDER BY id LIMIT 0,8  
+
+[ 2017-05-29T19:16:48+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 不存在的图像文件
+
+[ 2017-05-29T19:19:00+08:00 ] ::1 /onlineorder/admin.php/Dish/__PUBLIC__/Upload/Dish/2017-05-29/240x240_592c03a167b58.jpeg
+ERR: 非法操作:__PUBLIC__
+
+[ 2017-05-29T19:19:00+08:00 ] ::1 /onlineorder/admin.php/Dish/__PUBLIC__/Upload/Dish/2017-05-29/350x350_592c03a167b58.jpeg
+ERR: 非法操作:__PUBLIC__
+
+[ 2017-05-29T19:19:00+08:00 ] ::1 /onlineorder/admin.php/Dish/__PUBLIC__/Upload/Dish/2017-05-29/600x600_592c03a16a269.jpeg
+ERR: 非法操作:__PUBLIC__
+
+[ 2017-05-29T19:19:00+08:00 ] ::1 /onlineorder/admin.php/Dish/__PUBLIC__/Upload/Dish/2017-05-29/600x600_592c03a167b58.jpeg
+ERR: 非法操作:__PUBLIC__
+
+[ 2017-05-29T19:19:00+08:00 ] ::1 /onlineorder/admin.php/Dish/__PUBLIC__/Upload/Dish/2017-05-29/600x600_592c03a16c1a9.jpeg
+ERR: 非法操作:__PUBLIC__
+
+[ 2017-05-29T19:19:43+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0160s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 40 [ RunTime:0.0160s ]
+
+[ 2017-05-29T19:19:44+08:00 ] ::1 /onlineorder/admin.php/Dish/__PUBLIC__/Upload/Dish/2017-05-29/350x350_592c03a167b58.jpeg
+ERR: 非法操作:__PUBLIC__
+
+[ 2017-05-29T19:19:44+08:00 ] ::1 /onlineorder/admin.php/Dish/__PUBLIC__/Upload/Dish/2017-05-29/240x240_592c03a167b58.jpeg
+ERR: 非法操作:__PUBLIC__
+
+[ 2017-05-29T19:19:44+08:00 ] ::1 /onlineorder/admin.php/Dish/__PUBLIC__/Upload/Dish/2017-05-29/600x600_592c03a167b58.jpeg
+ERR: 非法操作:__PUBLIC__
+
+[ 2017-05-29T19:19:44+08:00 ] ::1 /onlineorder/admin.php/Dish/__PUBLIC__/Upload/Dish/2017-05-29/600x600_592c03a16a269.jpeg
+ERR: 非法操作:__PUBLIC__
+
+[ 2017-05-29T19:19:44+08:00 ] ::1 /onlineorder/admin.php/Dish/__PUBLIC__/Upload/Dish/2017-05-29/600x600_592c03a16c1a9.jpeg
+ERR: 非法操作:__PUBLIC__
+
+[ 2017-05-29T19:19:46+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 41 [ RunTime:0.0200s ]
+
+[ 2017-05-29T19:20:26+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public//Upload/Dish/2017-05-29/240x240_592c03f74b110.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:20:26+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public//Upload/Dish/2017-05-29/600x600_592c03f74e7c1.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:20:26+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public//Upload/Dish/2017-05-29/600x600_592c03f74b110.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:20:26+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public//Upload/Dish/2017-05-29/350x350_592c03f74b110.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:20:26+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public//Upload/Dish/2017-05-29/600x600_592c03f74d050.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:20:55+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public//Upload/Dish/2017-05-29/240x240_592c03f74b110.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:21:19+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/240x240_592c03f74b110.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:21:28+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/240x240_592c03f74b110.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:22:48+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 42 [ RunTime:0.0310s ]
+
+[ 2017-05-29T19:23:16+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/240x240_592c04a1e48a3.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:23:16+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/600x600_592c04a1e7f53.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:23:16+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/600x600_592c04a1e63fb.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:23:16+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/350x350_592c04a1e48a3.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:23:16+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/600x600_592c04a1e48a3.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:24:52+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T19:24:52+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T19:24:56+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/600x600_592c04a1e7f53.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:24:56+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/600x600_592c04a1e63fb.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:24:56+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/600x600_592c04a1e48a3.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:24:56+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/240x240_592c04a1e48a3.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:24:56+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/350x350_592c04a1e48a3.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:25:10+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/600x600_592c04a1e63fb.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:25:10+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/350x350_592c04a1e48a3.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:25:10+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/600x600_592c04a1e48a3.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:25:10+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/600x600_592c04a1e7f53.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:25:10+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/240x240_592c04a1e48a3.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:26:26+08:00 ] ::1 /onlineorder/admin.php/Index/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of Admin\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Admin\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0330s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 43 [ RunTime:0.0140s ]
+
+[ 2017-05-29T19:26:26+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/240x240_592c04a1e48a3.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:26:26+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/600x600_592c04a1e48a3.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:26:26+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/600x600_592c04a1e7f53.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:26:26+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/350x350_592c04a1e48a3.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T19:26:26+08:00 ] ::1 /onlineorder/admin.php/Dish/onlineorder/Public/Upload/Dish/2017-05-29/600x600_592c04a1e63fb.jpeg
+ERR: 非法操作:onlineorder
+
+[ 2017-05-29T22:55:26+08:00 ] ::1 /onlineorder/admin.php/Dish/getSubtype.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtypeitem` [ RunTime:0.0020s ]
+SQL: SELECT name as sub_name,id as sub_id FROM `onlineorder_dishtypeitem` WHERE `typeid` = 4  [ RunTime:0.0000s ]
+
+[ 2017-05-29T22:55:27+08:00 ] ::1 /onlineorder/admin.php/Dish/getSubtype.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtypeitem` [ RunTime:0.0000s ]
+SQL: SELECT name as sub_name,id as sub_id FROM `onlineorder_dishtypeitem` WHERE `typeid` = 5  [ RunTime:0.0000s ]
+
+[ 2017-05-29T22:56:23+08:00 ] ::1 /onlineorder/admin.php/Dish/getSubtype.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtypeitem` [ RunTime:0.0156s ]
+SQL: SELECT name as sub_name,id as sub_id FROM `onlineorder_dishtypeitem` WHERE `typeid` = 4  [ RunTime:0.0000s ]
+
+[ 2017-05-29T22:57:26+08:00 ] ::1 /onlineorder/admin.php/Dish/getSubtype.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtypeitem` [ RunTime:0.0000s ]
+SQL: SELECT name as sub_name,id as sub_id FROM `onlineorder_dishtypeitem` WHERE `typeid` = 5  [ RunTime:0.0156s ]
+
+[ 2017-05-29T22:59:29+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T22:59:29+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-29T23:01:33+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-29T23:01:33+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+

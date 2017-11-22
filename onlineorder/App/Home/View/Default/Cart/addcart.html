@@ -1,0 +1,39 @@
+<div id="cart_list">
+	<form action="{:U('Cart/getTotal')}" method="post">
+		<div class="dishlist_group">
+			<h3 class="lace_top"></h3>
+			<foreach name="cart_dish" item="c">
+				<figure class="cart_dishes">
+					<figcaption>
+						<div class="cart_dishlist_info">
+							<span>{$c.name}</span>
+							<label>菜品编号：#<input type="text" value="{$c.dishid}" readonly="readonly"></label>
+							<label>菜品类型：<span>{$c.dishtype}</span></label>
+							<label class="single_price">￥<input type="text" value="{$c.price}" readonly="readonly"></label>
+							<label class="buy_amount"  id="cartamount" >数量：<input type="text"class="amount" value="{$c.dishcount}" >
+							</label>
+						</div>
+					</figcaption>
+					<a class="delete_dish" onclick="deleteCartlist({$c.dishid})" href="">X</a>
+				</figure>
+			</foreach>
+			<h3 class="lace_bottom"></h3>	
+		</div>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;选择席位：
+		<select name="seatid" id="seat_select">
+			<foreach name="seat" item="s">
+				<if condition="$s['stock'] neq '0'">
+					<option value="{$s.id}">{$s.type}</option>
+				</if>
+			</foreach>
+		</select>
+		选择就餐时间：<input type="date" name="date" class="meal_date" required="required">
+		<div class="price_group" style="float: right;">
+			总额：<span style="font-size: 18px;color: red;">￥</span><input type="text" value="{$total}" id="total_price" name="total_price" readonly="readonly" style="border: 0;background-color: #ffefd5;font-size: 18px;color: red;">
+		</div>
+		<div style="position: relative;">
+			<input id="total_button" value="结算" type="submit">
+		</div>
+	</form>
+	<div class="cart_list"></div>
+</div>

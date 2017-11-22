@@ -1,0 +1,64 @@
+<div id="cart_list">
+	<div class="dishlist_group">
+		<h3 class="lace_top"></h3>
+		<table class="ordertable" cellpadding="0" cellspacing="0">
+			<tr class="list">
+				<th>订单编号</th>
+				<th>席位</th>
+				<th>下单时间</th>
+				<th>就餐时间</th>
+				<th>总额</th>
+				<th>查看详情</th>
+			</tr>
+			<foreach name='select' item='s'>
+			<tr class="list">
+				<td>{$s.id}</td>
+				<td>{$s.seattype}</td>
+				<td>{$s.creattime}</td>
+				<td>{$s.mealtime}</td>
+				<td>&#65509;{$s.totalprice}</td>
+				<td>
+					<a onclick="getData({$s['id']})" class="details">详情</a> 
+				</td>
+			</tr>
+			<tr class="details-sub" id="detail-{$s['id']}" style="display:none;">
+				<td colspan="6" >
+				</td>
+			</tr>
+			</foreach>
+		</table>
+		<h3 class="lace_bottom"></h3>	
+	</div>
+	<div class="pages">
+		{$page}
+	</div>
+	<div class="cart_list"></div>
+</div>
+
+
+
+<script type="text/javascript">
+function getData(id){
+	$.ajax({
+		type:"POST",
+		url:"{:U('Order/getData')}",
+		data:{"id":id},
+		dataType:"json",
+		success:function(data){
+			var html="<ul style=''>";
+			for(var i=0;i<data.length;i++){
+				html+="<li><span><img src='"+data[i].small_pic+"'></span><span>菜品名称："+data[i].dishname+"</span><span>菜品类型："+data[i].dishtype+">>"+data[i].subdishtype+"</span><span>单价："+data[i].price+"</span><span>数量："+data[i].dishamount+"</span></li>";
+			}
+			
+			html+="</ul>";
+			var str1="#detail-"+id+" td:first";
+			var str2="#detail-"+id;
+			$(str1).html(html);
+			$(str2).toggle();
+		},
+		error:function(){
+			alert("获取信息失败");
+		}
+	});
+}
+</script>

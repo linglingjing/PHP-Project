@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>登录和注册页面</title>
+	<link rel="stylesheet" href="__PUBLIC__/Home/css/login_register.css">
+	<link rel="stylesheet" href="__PUBLIC__/Home/css/common.css">
+	<script type="text/javascript" src="__PUBLIC__/Home/js/jquery-3.2.0.min.js"></script>
+</head>
+<body>
+<div class="container" id="login">
+	<form id="login_form" method="post" action="{:U('Index/login_handle')}">
+		<fieldset>
+			<legend>用户请登录</legend>
+			<p class="group_p">
+				<label for="username">用户名</label>
+				<input type="text" id="username" name="username">
+			</p>
+			<p class="group_p">
+				<label for="password">密码</label>
+				<input type="password" id="password" name="password">
+			</p>
+			<p class="" id="rem_pwd">
+				<input type="checkbox">记住密码
+			</p>
+			<p class="group_p">
+				<input class="submit" type="submit" value="登录">
+			</p>
+		</fieldset>
+	</form>
+</div>
+<script type="text/javascript">
+</script>
+</body>
+</html>

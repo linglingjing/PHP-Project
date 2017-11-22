@@ -1,0 +1,124 @@
+[ 2017-05-21T22:09:25+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-21T22:09:25+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-21T22:09:28+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T22:14:09+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T22:17:15+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T22:18:21+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T22:18:28+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T22:19:13+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T22:19:17+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T22:19:23+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T22:20:27+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T22:40:08+08:00 ] ::1 /test/admin.php/Admin/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+SQL: SHOW COLUMNS FROM `onlineorder_admin` [ RunTime:0.0027s ]
+SQL: DELETE FROM `onlineorder_admin` WHERE `id` = 7 [ RunTime:0.0487s ]
+
+[ 2017-05-21T22:40:35+08:00 ] ::1 /test/admin.php/Admin/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+SQL: SHOW COLUMNS FROM `onlineorder_admin` [ RunTime:0.0006s ]
+SQL: DELETE FROM `onlineorder_admin` WHERE `id` = 8 [ RunTime:0.0697s ]
+
+[ 2017-05-21T22:40:51+08:00 ] ::1 /test/admin.php/Admin/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+SQL: SHOW COLUMNS FROM `onlineorder_admin` [ RunTime:0.0006s ]
+SQL: DELETE FROM `onlineorder_admin` WHERE `id` = 9 [ RunTime:0.0785s ]
+
+[ 2017-05-21T22:54:48+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T22:55:08+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T22:55:11+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T22:57:55+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T22:58:03+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T23:01:45+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T23:02:00+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-21T23:02:00+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-21T23:02:02+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T23:02:12+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T23:05:08+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T23:05:11+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-21T23:05:11+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-21T23:05:14+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T23:06:21+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T23:06:23+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-21T23:06:23+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-05-21T23:06:27+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T23:07:58+08:00 ] ::1 /test/admin.php/kingediter/kindeditor-all-min.js
+ERR: 无法加载控制器:Kingediter
+
+[ 2017-05-21T23:23:22+08:00 ] ::1 /test/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001199s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0014s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 28 [ RunTime:0.0810s ]
+
+[ 2017-05-21T23:25:11+08:00 ] ::1 /test/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-05-21T23:25:11+08:00 ] ::1 /test/admin.php/Index/css/content.css
+ERR: 非法操作:css
+

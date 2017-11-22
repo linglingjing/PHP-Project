@@ -1,0 +1,9 @@
+.circumstance{
+	margin:3em auto;
+	text-align: center;
+
+}
+.cir_pics img:first-child{
+	width: 667px;
+	height: 417px;
+}

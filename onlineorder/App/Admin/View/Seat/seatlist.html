@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<link rel="stylesheet" href="__PUBLIC__/Admin/css/reset.css" />
+	<link rel="stylesheet" href="__PUBLIC__/Admin/css/content.css" />
+	<link rel="stylesheet" href="__PUBLIC__/paging.css">
+	<script src="__PUBLIC__/Admin/js/selectcheck.js"></script>
+	<script src="__PUBLIC__/Admin/js/jquery.min.js"></script>
+	<script>
+		function Delete(id){
+			if(confirm("真的要删除吗？")){
+				$.ajax({
+					type:"POST",
+					url:"{:U('Index/Delete')}",
+					data:{"id":id,"table":"seat"},
+					dataType:"json",
+					success:function(data){
+						alert(data);
+					},
+					error:function(){
+						alert("删除失败。");
+					}
+				});
+			}else{
+				return;
+			}
+		}
+	</script>
+</head>
+<body marginwidth="0" marginheight="0">
+	<div class="container">
+		<div class="public-nav">您当前的位置：<a href="">席位管理</a>&gt;<a href="">席位列表</a></div>
+		<div class="public-content">
+			<div class="public-content-header">
+				<h3>席位信息</h3>
+			</div>
+			<form action="{:U('Index/DeleteAll',array('table'=>'seat'))}">
+			<div class="public-content-cont">
+				<table class="public-cont-table">
+					<tr>
+						<th>选择</th>
+						<th>ID</th>
+						<th>席位类型</th>
+						<th>库存量</th>
+						<th>操作</th>
+					</tr>
+					<foreach name='select' item='s'>
+					<tr>
+						<td><input type="checkbox" value="{$s.id}" name="id[]"></td>
+						<td>{$s.id}</td>
+						<td>{$s.type}</td>
+						<td>{$s.stock}</td>
+						<td>
+							<div class="table-fun">
+								<a href="{:U('Seat/seatmodify',array('id'=>$s['id']))}">修改</a>
+								<a href="" onclick="Delete({$s['id']})">删除</a>
+							</div>
+						</td>
+					</tr>
+					</foreach>
+					<tr>
+						<td colspan="7">
+							<div class="table-fun">
+								<a onclick="selectall()">全选</a>
+								<a onclick="inverse()">反选</a>
+								<a onclick="unselectall()">全不选</a>
+								<input type="submit" value="批量删除"></a>
+							</div>
+						</td>
+					</tr>
+				</table>
+				<div class="pages">
+					{$page}
+				</div>
+			</div>
+		</div>
+		</form>
+	</div>
+</body>
+</html>

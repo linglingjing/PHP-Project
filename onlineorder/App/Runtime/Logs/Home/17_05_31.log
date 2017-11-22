@@ -1,0 +1,1103 @@
+[ 2017-05-31T16:08:12+08:00 ] ::1 /onlineorder/index.php/Home/Index/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Home\Controller\IndexController.class.php 第 154 行.
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 1  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:20:08+08:00 ] ::1 /onlineorder/index.php/Home/Index/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') D:\wamp\www\onlineorder\App\Home\Controller\IndexController.class.php 第 112 行.
+ERR: 非法操作:sub_Menu
+
+[ 2017-05-31T16:20:11+08:00 ] ::1 /onlineorder/index.php/Home/Index/Menu.html
+ERR: 非法操作:Menu
+
+[ 2017-05-31T16:21:00+08:00 ] ::1 /onlineorder/index.php/Home/Index/Menu.html
+ERR: 非法操作:Menu
+
+[ 2017-05-31T16:21:01+08:00 ] ::1 /onlineorder/index.php/Home/Index/Menu.html
+ERR: 非法操作:Menu
+
+[ 2017-05-31T16:21:09+08:00 ] ::1 /onlineorder/index.php/Home/Index/Menu.html
+ERR: 非法操作:Menu
+
+[ 2017-05-31T16:21:13+08:00 ] ::1 /onlineorder/index.php/Home/Index/Menu.html
+ERR: 非法操作:Menu
+
+[ 2017-05-31T16:21:41+08:00 ] ::1 /onlineorder/index.php/Home/Menu/Menu.html
+ERR: 模板不存在:./App/Home/View/default/Menu/Menu.html
+
+[ 2017-05-31T16:25:24+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 1  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:30:44+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 1  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:30:47+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 2  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:30:49+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 7  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:30:50+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 7  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:30:50+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:30:53+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 9  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:30:55+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 5  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:30:56+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 6  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:36:32+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 2  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:36:33+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:36:34+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 9  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:36:36+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T16:44:25+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 1  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:06:17+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/46.html
+ERR: 1052:Champ: 'id' dans where clause est ambigu
+ [ SQL语句 ] : SELECT a.*,b.name as firstMenuName,c.name as subMenuName FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.subdishtypeid=c.id and c.typeid=b.id ) AND `id` = 46 LIMIT 1  
+
+[ 2017-05-31T17:06:22+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/45.html
+ERR: 1052:Champ: 'id' dans where clause est ambigu
+ [ SQL语句 ] : SELECT a.*,b.name as firstMenuName,c.name as subMenuName FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.subdishtypeid=c.id and c.typeid=b.id ) AND `id` = 45 LIMIT 1  
+
+[ 2017-05-31T17:07:39+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/45.html
+ERR: 1054:Champ '$id' inconnu dans where clause
+ [ SQL语句 ] : SELECT a.*,b.name as firstMenuName,c.name as subMenuName FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=$id ) LIMIT 1  
+
+[ 2017-05-31T17:26:19+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 6  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:26:26+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.id%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].id+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].id+ ) LIMIT 1  
+
+[ 2017-05-31T17:27:40+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 11  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:27:42+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.id%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].id+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].id+ ) LIMIT 1  
+
+[ 2017-05-31T17:27:51+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.id%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].id+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].id+ ) LIMIT 1  
+
+[ 2017-05-31T17:27:55+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 11  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:27:56+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.id%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].id+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].id+ ) LIMIT 1  
+
+[ 2017-05-31T17:29:22+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:29:32+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 6  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:29:33+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.id%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].id+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].id+ ) LIMIT 1  
+
+[ 2017-05-31T17:30:04+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.id%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].id+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].id+ ) LIMIT 1  
+
+[ 2017-05-31T17:30:08+08:00 ] ::1 /onlineorder/index.php/Home/Menu/
+ERR: 非法操作:index
+
+[ 2017-05-31T17:30:16+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:30:17+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.id%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].id+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].id+ ) LIMIT 1  
+
+[ 2017-05-31T17:30:52+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:31:36+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 10  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:31:40+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:31:52+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 11  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:32:34+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 11  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:32:35+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 11  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:32:35+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 11  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:32:37+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:32:39+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 9  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:32:41+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:32:43+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 7  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:32:45+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 2  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:32:45+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 2  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:32:47+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0020s ]
+
+[ 2017-05-31T17:33:20+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 1  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:34:30+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 7  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:34:32+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 9  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:34:33+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:34:36+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.id%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].id+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].id+ ) LIMIT 1  
+
+[ 2017-05-31T17:34:50+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 10  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:34:51+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.id%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].id+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].id+ ) LIMIT 1  
+
+[ 2017-05-31T17:35:27+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:35:28+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.%5B%22id%22%5D%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].["id"]+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].["id"]+ ) LIMIT 1  
+
+[ 2017-05-31T17:36:22+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:40:14+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.%5B%22id%22%5D%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].["id"]+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].["id"]+ ) LIMIT 1  
+
+[ 2017-05-31T17:40:20+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:40:21+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.id%3B%0D%0A%09%09%09%09%09+html%2B%3D.html
+ERR: 1064:Erreur de syntaxe près de '[i].id;
+					+html+= ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].id;
+					+html+= ) LIMIT 1  
+
+[ 2017-05-31T17:46:06+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 10  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:46:07+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.id%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].id+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].id+ ) LIMIT 1  
+
+[ 2017-05-31T17:46:25+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 10  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:46:26+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.id%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].id+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].id+ ) LIMIT 1  
+
+[ 2017-05-31T17:48:43+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 9  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:48:44+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 6  [ RunTime:0.0010s ]
+
+[ 2017-05-31T17:48:45+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D%5B%27id%27%5D%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i]['id']+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i]['id']+ ) LIMIT 1  
+
+[ 2017-05-31T19:11:17+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0180s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0180s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( c.typeid=1 )  [ RunTime:0.0930s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\onlineorder\ThinkPHP\Common\functions.php:850) D:\wamp\www\onlineorder\ThinkPHP\Library\Think\Controller.class.php 第 215 行.
+
+[ 2017-05-31T19:11:20+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( c.typeid=1 )  [ RunTime:0.0030s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\onlineorder\ThinkPHP\Common\functions.php:850) D:\wamp\www\onlineorder\ThinkPHP\Library\Think\Controller.class.php 第 215 行.
+
+[ 2017-05-31T19:12:16+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( c.typeid=1 )  [ RunTime:0.0030s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\wamp\www\onlineorder\ThinkPHP\Common\functions.php:850) D:\wamp\www\onlineorder\ThinkPHP\Library\Think\Controller.class.php 第 215 行.
+
+[ 2017-05-31T19:12:18+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 1  [ RunTime:0.0080s ]
+
+[ 2017-05-31T19:12:20+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 7  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:22+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:22+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 9  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:23+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 6  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:24+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 11  [ RunTime:0.0000s ]
+
+[ 2017-05-31T19:12:24+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 11  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:25+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 11  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:25+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 10  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:26+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 10  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:26+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 4  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:26+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 4  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:27+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 6  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:28+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 5  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:28+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 1  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:29+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 2  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:33+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 11  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:35+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:36+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 9  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:12:36+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 9  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:13:14+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 2  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:13:15+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 7  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:13:16+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 7  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:13:16+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 1  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:13:17+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 1  [ RunTime:0.0020s ]
+
+[ 2017-05-31T19:13:18+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 7  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:13:18+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 7  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:13:42+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 7  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:13:43+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:13:45+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 9  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:19:57+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0350s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 1  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:19:57+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 1  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:24:24+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( c.typeid=1 )  [ RunTime:0.0030s ]
+
+[ 2017-05-31T19:25:20+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( c.typeid=4 )  [ RunTime:0.0020s ]
+NOTIC: [8] Array to string conversion D:\wamp\www\onlineorder\App\Home\Controller\MenuController.class.php 第 41 行.
+
+[ 2017-05-31T19:25:23+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0190s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0180s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( c.typeid=1 )  [ RunTime:0.0030s ]
+NOTIC: [8] Array to string conversion D:\wamp\www\onlineorder\App\Home\Controller\MenuController.class.php 第 41 行.
+
+[ 2017-05-31T19:25:32+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0220s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( c.typeid=1 )  [ RunTime:0.0040s ]
+
+[ 2017-05-31T19:25:34+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( c.typeid=4 )  [ RunTime:0.0020s ]
+
+[ 2017-05-31T19:25:36+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 3  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:25:38+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 4  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:25:39+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 10  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:25:40+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( c.typeid=4 )  [ RunTime:0.0020s ]
+
+[ 2017-05-31T19:27:14+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( b.id=1 )  [ RunTime:0.0030s ]
+
+[ 2017-05-31T19:31:50+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( b.id=1 )  [ RunTime:0.0020s ]
+
+[ 2017-05-31T19:32:13+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( b.id=1 )  [ RunTime:0.0030s ]
+
+[ 2017-05-31T19:32:34+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( b.id=1 )  [ RunTime:0.0030s ]
+
+[ 2017-05-31T19:32:40+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0470s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( b.id=1 )  [ RunTime:0.0030s ]
+
+[ 2017-05-31T19:32:51+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( b.id=1 )  [ RunTime:0.0020s ]
+
+[ 2017-05-31T19:34:02+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( b.id=1 and c.typeid=1 )  [ RunTime:0.0020s ]
+
+[ 2017-05-31T19:35:00+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( c.id=1 )  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:35:43+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( b.id=1 )  [ RunTime:0.0030s ]
+
+[ 2017-05-31T19:36:04+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0180s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( b.id=1 )  [ RunTime:0.0030s ]
+
+[ 2017-05-31T19:36:05+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( b.id=1 )  [ RunTime:0.0020s ]
+
+[ 2017-05-31T19:36:05+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( b.id=1 )  [ RunTime:0.0030s ]
+
+[ 2017-05-31T19:36:06+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( b.id=4 )  [ RunTime:0.0020s ]
+
+[ 2017-05-31T19:42:12+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.subdishtypeid=c.id and c.typeid=b.id and b.id=1 )  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:42:15+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/+%2B+data%5Bi%5D.id+%2B+.html
+ERR: 1064:Erreur de syntaxe près de '[i].id+++ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+++data[i].id+++ ) LIMIT 1  
+
+[ 2017-05-31T19:42:55+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 7  [ RunTime:0.0020s ]
+
+[ 2017-05-31T19:45:29+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.subdishtypeid=c.id and c.typeid=b.id and b.id=1 )  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:45:33+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 1  [ RunTime:0.0860s ]
+
+[ 2017-05-31T19:45:35+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.subdishtypeid=c.id and c.typeid=b.id and b.id=1 )  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:45:53+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.subdishtypeid=c.id and c.typeid=b.id and b.id=1 )  [ RunTime:0.0020s ]
+
+[ 2017-05-31T19:45:55+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.subdishtypeid=c.id and c.typeid=b.id and b.id=4 )  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:45:57+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.subdishtypeid=c.id and c.typeid=b.id and b.id=5 )  [ RunTime:0.0020s ]
+
+[ 2017-05-31T19:45:58+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 1  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:53:38+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 2  [ RunTime:0.0000s ]
+
+[ 2017-05-31T19:53:40+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:54:35+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.%5B%22id%22%5D%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].["id"]+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].["id"]+ ) LIMIT 1  
+
+[ 2017-05-31T19:56:49+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:56:54+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.subdishtypeid=c.id and c.typeid=b.id and b.id=1 )  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:57:06+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:57:09+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/%2Bdata%5Bi%5D.%5B%22id%22%5D%2B.html
+ERR: 1064:Erreur de syntaxe près de '[i].["id"]+ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+data[i].["id"]+ ) LIMIT 1  
+
+[ 2017-05-31T19:57:31+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:58:37+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:58:43+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.subdishtypeid=c.id and c.typeid=b.id and b.id=1 )  [ RunTime:0.0010s ]
+
+[ 2017-05-31T19:58:44+08:00 ] ::1 /onlineorder/index.php/Home/Menu/detail_Menu/id/+%2B+data%5Bi%5D.id+%2B+.html
+ERR: 1064:Erreur de syntaxe près de '[i].id+++ ) LIMIT 1' à la ligne 1
+ [ SQL语句 ] : SELECT a.*,b.name as firstmenuname,c.name as submenuname FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.id=+++data[i].id+++ ) LIMIT 1  
+
+[ 2017-05-31T19:58:48+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.subdishtypeid=c.id and c.typeid=b.id and b.id=1 )  [ RunTime:0.0020s ]
+
+[ 2017-05-31T19:59:45+08:00 ] ::1 /onlineorder/index.php/Home/Menu/first_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT a.* FROM onlineorder_dish as a,onlineorder_dishtype as b,onlineorder_dishtypeitem as c WHERE ( a.subdishtypeid=c.id and c.typeid=b.id and b.id=1 )  [ RunTime:0.0020s ]
+
+[ 2017-05-31T20:03:34+08:00 ] ::1 /onlineorder/index.php/Home/Index/%7B:U('Index/register_handle')%7D
+ERR: 非法操作:{:U('Index
+
+[ 2017-05-31T20:04:15+08:00 ] ::1 /onlineorder/index.php/Home/Index/%7B:U('Index/register_handle')%7D
+ERR: 非法操作:{:U('Index
+
+[ 2017-05-31T21:33:35+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 3  [ RunTime:0.0010s ]
+
+[ 2017-05-31T21:33:36+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 4  [ RunTime:0.0010s ]
+
+[ 2017-05-31T21:33:37+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 10  [ RunTime:0.0010s ]
+
+[ 2017-05-31T22:05:42+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 2  [ RunTime:0.0010s ]
+
+[ 2017-05-31T22:05:43+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0010s ]
+
+[ 2017-05-31T22:22:40+08:00 ] ::1 /onlineorder/index.php/Home/Cart/login.html
+ERR: 非法操作:login
+
+[ 2017-05-31T22:24:23+08:00 ] ::1 /onlineorder/index.php/Home/Cart/onlineorder/index.php/Home/Index/login.html
+ERR: 非法操作:onlineorder
+
+[ 2017-05-31T22:26:12+08:00 ] ::1 /onlineorder/index.php/Home/Cart/login.html
+ERR: 非法操作:login
+
+[ 2017-05-31T22:28:26+08:00 ] ::1 /onlineorder/index.php/Home/Cart/__URL__/login
+ERR: 非法操作:__URL__
+
+[ 2017-05-31T22:28:32+08:00 ] ::1 /onlineorder/index.php/Home/Cart/__URL__/login
+ERR: 非法操作:__URL__
+
+[ 2017-05-31T22:28:46+08:00 ] ::1 /onlineorder/index.php/Home/Cart/__URL__/login
+ERR: 非法操作:__URL__
+
+[ 2017-05-31T22:28:52+08:00 ] ::1 /onlineorder/index.php/Home/Cart/login.html
+ERR: 非法操作:login
+
+[ 2017-05-31T22:28:54+08:00 ] ::1 /onlineorder/index.php/Home/Cart/login.html
+ERR: 非法操作:login
+
+[ 2017-05-31T22:49:04+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 2  [ RunTime:0.0010s ]
+
+[ 2017-05-31T22:49:05+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 9  [ RunTime:0.0010s ]
+
+[ 2017-05-31T22:49:07+08:00 ] ::1 /onlineorder/index.php/Home/Menu/sub_Menu.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `subdishtypeid` = 8  [ RunTime:0.0020s ]
+

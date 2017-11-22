@@ -1,0 +1,401 @@
+[ 2017-06-03T15:56:47+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T15:56:47+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T16:04:03+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T16:04:03+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T16:07:42+08:00 ] ::1 /onlineorder/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `id` = 45 LIMIT 1   [ RunTime:0.0010s ]
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`onlineorder`.`onlineorder_cart`, CONSTRAINT `onlineorder_cart_ibfk_1` FOREIGN KEY (`dishid`) REFERENCES `onlineorder_dish` (`id`))
+ [ SQL语句 ] : DELETE FROM `onlineorder_dish` WHERE `id` = 45
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`onlineorder`.`onlineorder_cart`, CONSTRAINT `onlineorder_cart_ibfk_1` FOREIGN KEY (`dishid`) REFERENCES `onlineorder_dish` (`id`))
+ [ SQL语句 ] : DELETE FROM `onlineorder_dish` WHERE `id` = 45
+
+[ 2017-06-03T16:07:49+08:00 ] ::1 /onlineorder/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `id` = 45 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] unlink(./Public/Upload/Dish/2017-05-29/240x240_592c35bfba794.jpeg): No such file or directory D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 236 行.
+NOTIC: [2] unlink(./Public/Upload/Dish/2017-05-29/350x350_592c35bfba794.jpeg): No such file or directory D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 237 行.
+NOTIC: [2] unlink(./Public/Upload/Dish/2017-05-29/600x600_592c35bfba794.jpeg): No such file or directory D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 238 行.
+NOTIC: [2] unlink(./Public/Upload/Dish/2017-05-29/600x600_592c35bfbc2ec.jpeg): No such file or directory D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 239 行.
+NOTIC: [2] unlink(./Public/Upload/Dish/2017-05-29/600x600_592c35bfbda5c.jpeg): No such file or directory D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 240 行.
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`onlineorder`.`onlineorder_cart`, CONSTRAINT `onlineorder_cart_ibfk_1` FOREIGN KEY (`dishid`) REFERENCES `onlineorder_dish` (`id`))
+ [ SQL语句 ] : DELETE FROM `onlineorder_dish` WHERE `id` = 45
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`onlineorder`.`onlineorder_cart`, CONSTRAINT `onlineorder_cart_ibfk_1` FOREIGN KEY (`dishid`) REFERENCES `onlineorder_dish` (`id`))
+ [ SQL语句 ] : DELETE FROM `onlineorder_dish` WHERE `id` = 45
+
+[ 2017-06-03T16:17:29+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T16:17:29+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T16:25:05+08:00 ] ::1 /onlineorder/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `id` = 45 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] unlink(./Public/Upload/Dish/2017-05-29/240x240_592c35bfba794.jpeg): No such file or directory D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 236 行.
+NOTIC: [2] unlink(./Public/Upload/Dish/2017-05-29/350x350_592c35bfba794.jpeg): No such file or directory D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 237 行.
+NOTIC: [2] unlink(./Public/Upload/Dish/2017-05-29/600x600_592c35bfba794.jpeg): No such file or directory D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 238 行.
+NOTIC: [2] unlink(./Public/Upload/Dish/2017-05-29/600x600_592c35bfbc2ec.jpeg): No such file or directory D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 239 行.
+NOTIC: [2] unlink(./Public/Upload/Dish/2017-05-29/600x600_592c35bfbda5c.jpeg): No such file or directory D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 240 行.
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`onlineorder`.`onlineorder_cart`, CONSTRAINT `onlineorder_cart_ibfk_1` FOREIGN KEY (`dishid`) REFERENCES `onlineorder_dish` (`id`))
+ [ SQL语句 ] : DELETE FROM `onlineorder_dish` WHERE `id` = 45
+ERR: 1451:Cannot delete or update a parent row: a foreign key constraint fails (`onlineorder`.`onlineorder_cart`, CONSTRAINT `onlineorder_cart_ibfk_1` FOREIGN KEY (`dishid`) REFERENCES `onlineorder_dish` (`id`))
+ [ SQL语句 ] : DELETE FROM `onlineorder_dish` WHERE `id` = 45
+
+[ 2017-06-03T16:29:56+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T16:29:56+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T16:30:06+08:00 ] ::1 /onlineorder/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0130s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 45 [ RunTime:0.0570s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `id` = 45 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: middle_pic D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 234 行.
+NOTIC: [8] Undefined index: big_pic1 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 235 行.
+NOTIC: [8] Undefined index: big_pic2 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 236 行.
+NOTIC: [8] Undefined index: big_pic3 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 237 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 239 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 240 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 241 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 242 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 243 行.
+
+[ 2017-06-03T18:29:07+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T18:29:07+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T18:30:44+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T18:30:44+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T18:32:09+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T18:32:09+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:05:18+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:05:18+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:06:00+08:00 ] ::1 /onlineorder/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 44 [ RunTime:0.0500s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `id` = 44 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: middle_pic D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 234 行.
+NOTIC: [8] Undefined index: big_pic1 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 235 行.
+NOTIC: [8] Undefined index: big_pic2 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 236 行.
+NOTIC: [8] Undefined index: big_pic3 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 237 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 239 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 240 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 241 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 242 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 243 行.
+
+[ 2017-06-03T21:06:04+08:00 ] ::1 /onlineorder/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 46 [ RunTime:0.0250s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `id` = 46 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: middle_pic D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 234 行.
+NOTIC: [8] Undefined index: big_pic1 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 235 行.
+NOTIC: [8] Undefined index: big_pic2 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 236 行.
+NOTIC: [8] Undefined index: big_pic3 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 237 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 239 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 240 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 241 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 242 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 243 行.
+
+[ 2017-06-03T21:06:08+08:00 ] ::1 /onlineorder/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0120s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 47 [ RunTime:0.0020s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `id` = 47 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: middle_pic D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 234 行.
+NOTIC: [8] Undefined index: big_pic1 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 235 行.
+NOTIC: [8] Undefined index: big_pic2 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 236 行.
+NOTIC: [8] Undefined index: big_pic3 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 237 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 239 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 240 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 241 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 242 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 243 行.
+
+[ 2017-06-03T21:06:11+08:00 ] ::1 /onlineorder/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0140s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 48 [ RunTime:0.0030s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `id` = 48 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: middle_pic D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 234 行.
+NOTIC: [8] Undefined index: big_pic1 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 235 行.
+NOTIC: [8] Undefined index: big_pic2 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 236 行.
+NOTIC: [8] Undefined index: big_pic3 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 237 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 239 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 240 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 241 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 242 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 243 行.
+
+[ 2017-06-03T21:06:14+08:00 ] ::1 /onlineorder/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 49 [ RunTime:0.0030s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `id` = 49 LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: middle_pic D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 234 行.
+NOTIC: [8] Undefined index: big_pic1 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 235 行.
+NOTIC: [8] Undefined index: big_pic2 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 236 行.
+NOTIC: [8] Undefined index: big_pic3 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 237 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 239 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 240 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 241 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 242 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 243 行.
+
+[ 2017-06-03T21:29:27+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:29:27+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:40:28+08:00 ] ::1 /onlineorder/admin.php/Dish/getSubtype.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtypeitem` [ RunTime:0.0110s ]
+SQL: SELECT name as sub_name,id as sub_id FROM `onlineorder_dishtypeitem` WHERE `typeid` = 4  [ RunTime:0.0020s ]
+
+[ 2017-06-03T21:48:35+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:48:35+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:49:26+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:49:26+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:50:28+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:50:28+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:53:40+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:53:40+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:54:47+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:54:47+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:54:52+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:54:52+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:55:15+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:55:15+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:55:28+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:55:28+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:56:37+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:56:37+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:57:48+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:57:48+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:58:26+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:58:26+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:59:23+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T21:59:23+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T22:00:19+08:00 ] ::1 /onlineorder/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0190s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 51 [ RunTime:0.1190s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `id` = 51 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: middle_pic D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 234 行.
+NOTIC: [8] Undefined index: big_pic1 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 235 行.
+NOTIC: [8] Undefined index: big_pic2 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 236 行.
+NOTIC: [8] Undefined index: big_pic3 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 237 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 239 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 240 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 241 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 242 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 243 行.
+
+[ 2017-06-03T22:00:23+08:00 ] ::1 /onlineorder/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0110s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 50 [ RunTime:0.0230s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `id` = 50 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: middle_pic D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 234 行.
+NOTIC: [8] Undefined index: big_pic1 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 235 行.
+NOTIC: [8] Undefined index: big_pic2 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 236 行.
+NOTIC: [8] Undefined index: big_pic3 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 237 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 239 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 240 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 241 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 242 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 243 行.
+
+[ 2017-06-03T22:46:27+08:00 ] ::1 /onlineorder/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.031002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031002s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.3820s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 52 [ RunTime:0.0510s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `id` = 52 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: middle_pic D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 234 行.
+NOTIC: [8] Undefined index: big_pic1 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 235 行.
+NOTIC: [8] Undefined index: big_pic2 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 236 行.
+NOTIC: [8] Undefined index: big_pic3 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 237 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 239 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 240 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 241 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 242 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 243 行.
+
+[ 2017-06-03T22:47:08+08:00 ] ::1 /onlineorder/admin.php/Dish/Delete.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dish` [ RunTime:0.0160s ]
+SQL: DELETE FROM `onlineorder_dish` WHERE `id` = 53 [ RunTime:0.1610s ]
+SQL: SELECT * FROM `onlineorder_dish` WHERE `id` = 53 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: middle_pic D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 234 行.
+NOTIC: [8] Undefined index: big_pic1 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 235 行.
+NOTIC: [8] Undefined index: big_pic2 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 236 行.
+NOTIC: [8] Undefined index: big_pic3 D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 237 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 239 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 240 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 241 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 242 行.
+NOTIC: [2] unlink(): Invalid argument D:\wamp\www\onlineorder\App\Admin\Controller\DishController.class.php 第 243 行.
+
+[ 2017-06-03T22:48:31+08:00 ] ::1 /onlineorder/admin.php/Dish/getSubtype.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtypeitem` [ RunTime:0.0100s ]
+SQL: SELECT name as sub_name,id as sub_id FROM `onlineorder_dishtypeitem` WHERE `typeid` = 4  [ RunTime:0.0000s ]
+
+[ 2017-06-03T22:49:54+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 1048:Le champ 'big_pic2' ne peut être vide (null)
+ [ SQL语句 ] : INSERT INTO `onlineorder_dish` (`id`,`name`,`subdishtypeid`,`price`,`info`,`sellcount`,`small_pic`,`middle_pic`,`big_pic1`,`big_pic2`,`big_pic3`) VALUES (NULL,'红枣小麦米糊','5','12','擀的薄薄的饼坯入高温烤箱慢慢地鼓起，里面包裹着经典的葱香酥馅，吃到嘴里层层酥脆。
+
+
+',NULL,'/onlineorder/Public/Upload/Dish/2017-06-03/240x240_5932cc91670cd.jpg','/onlineorder/Public/Upload/Dish/2017-06-03/350x350_5932cc91670cd.jpg','/onlineorder/Public/Upload/Dish/2017-06-03/600x600_5932cc91670cd.jpg',NULL,NULL)
+
+[ 2017-06-03T22:50:12+08:00 ] ::1 /onlineorder/admin.php/Dish/Add.html
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`onlineorder`.`onlineorder_dish`, CONSTRAINT `onlineorder_dish_ibfk_1` FOREIGN KEY (`subdishtypeid`) REFERENCES `onlineorder_dishtypeitem` (`id`))
+ [ SQL语句 ] : INSERT INTO `onlineorder_dish` (`id`,`name`,`subdishtypeid`,`price`,`info`,`sellcount`,`small_pic`,`middle_pic`,`big_pic1`,`big_pic2`,`big_pic3`) VALUES (NULL,'红枣小麦米糊','0','12','擀的薄薄的饼坯入高温烤箱慢慢地鼓起，里面包裹着经典的葱香酥馅，吃到嘴里层层酥脆。
+
+
+',NULL,'/onlineorder/Public/Upload/Dish/2017-06-03/240x240_5932cca386cc2.jpg','/onlineorder/Public/Upload/Dish/2017-06-03/350x350_5932cca386cc2.jpg','/onlineorder/Public/Upload/Dish/2017-06-03/600x600_5932cca386cc2.jpg','/onlineorder/Public/Upload/Dish/2017-06-03/600x600_5932cca3893d2.jpg','/onlineorder/Public/Upload/Dish/2017-06-03/600x600_5932cca38bae3.jpg')
+
+[ 2017-06-03T22:52:41+08:00 ] ::1 /onlineorder/admin.php/Index/css/reset.css
+ERR: 非法操作:css
+
+[ 2017-06-03T22:52:41+08:00 ] ::1 /onlineorder/admin.php/Index/css/content.css
+ERR: 非法操作:css
+
+[ 2017-06-03T22:53:01+08:00 ] ::1 /onlineorder/admin.php/Dish/getSubtype.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtypeitem` [ RunTime:0.0110s ]
+SQL: SELECT name as sub_name,id as sub_id FROM `onlineorder_dishtypeitem` WHERE `typeid` = 4  [ RunTime:0.0010s ]
+
+[ 2017-06-03T23:08:08+08:00 ] ::1 /onlineorder/admin.php/Dish/getSubtype.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtypeitem` [ RunTime:0.0120s ]
+SQL: SELECT name as sub_name,id as sub_id FROM `onlineorder_dishtypeitem` WHERE `typeid` = 4  [ RunTime:0.0010s ]
+
+[ 2017-06-03T23:35:58+08:00 ] ::1 /onlineorder/admin.php/Dish/getSubtype.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtypeitem` [ RunTime:0.0170s ]
+SQL: SELECT name as sub_name,id as sub_id FROM `onlineorder_dishtypeitem` WHERE `typeid` = 4  [ RunTime:0.0010s ]
+
+[ 2017-06-03T23:59:07+08:00 ] ::1 /onlineorder/admin.php/Dish/getSubtype.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `onlineorder_dishtypeitem` [ RunTime:0.0140s ]
+SQL: SELECT name as sub_name,id as sub_id FROM `onlineorder_dishtypeitem` WHERE `typeid` = 4  [ RunTime:0.0020s ]
+

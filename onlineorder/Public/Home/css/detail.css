@@ -1,0 +1,136 @@
+.dish{text-align: center;}
+.top{
+	background: rgba(112, 68, 130, 0.19);
+	padding: 3em 0 6em 0;
+	margin: 2em;
+	position: relative;
+}
+.left,.right{
+	display: inline-block;
+	vertical-align: middle;
+}
+.left{
+	width: 35%;
+	border-right: 1px solid #fff;
+	margin-right: 1.8em;
+	text-align: left;
+	position: relative;
+}
+.addcart_img{
+	max-width: 90%;
+	border: 1px solid #ccc;
+	position: relative;
+	/*z-index: 9999;*/
+}
+
+.detail_pic img{max-width: 70%;}
+
+.right{
+	box-sizing:border-box;
+	-moz-box-sizing:border-box; /* Firefox */
+	-webkit-box-sizing:border-box; /* Safari */
+	text-align:left; 
+	width: 50%;
+	padding:0 2em 0 1em;
+}
+.dish_info div{margin: 1em 0;}
+.dish_info h1{margin-bottom: 1em;}
+.dish_pos1,.dish_pos2{margin-left: 7.5em;}
+.dish_info div span{color:#555;}
+.dish_price strong{
+	color: #f60;
+	font-size: 1.7em;
+	position: relative;
+    top: 5px;
+}
+.dish_price strong span{color: #f60;}
+.dish_formula{
+	margin-top: 15px;
+	text-indent: 2em;
+	line-height: 1.5em;
+	letter-spacing: 1px;
+	padding-bottom: 1em;
+}
+.dish_addCart{
+	text-align: center;
+	width: 200px;
+	font-size: 20px;
+	height: 2.5em;
+	line-height: 2.5em;
+	background: #f60;
+	display: inline-block;
+	position: relative;
+	top: -2px;
+	left: 4.6em;
+	cursor: pointer;
+}
+.buy_amount{
+	border:1px solid #ccc;
+	border-radius: 4px;
+	display: inline-block;
+	width: 180px;
+	
+}
+.buy_amount span{
+}
+.amount{
+	border: none;
+	outline: none;
+	background: transparent;
+	font-size: 2em;
+	width: 52px;
+	padding:0 13px;
+	text-align: center;
+
+}
+.jian{
+	border-right:1px solid #ccc;
+}
+.jia{
+	border-left:1px solid #ccc;
+}
+.jian,.jia{
+	font-size: 25px;
+    padding: 0 8px;
+	position: relative;
+	top: -4px;
+}
+.jian:hover,.jia:hover{cursor: pointer;}
+.top_h3_top,.top_h3_bottom{
+	width: 100%;
+	height: 2em;
+}
+.top_h3_top{
+	background-image: url('../image/top_h3_bg.png');
+	background-repeat: repeat-x;
+	position: absolute;
+	top: -26px;
+}
+.top_h3_bottom{
+	background-image: url('../image/detail_h3_bg.png');
+	background-repeat: repeat-x;
+	position: absolute;
+	bottom: -5em;
+	margin-bottom: 3em;
+}
+
+.look_detailPic{
+	display: inline-block;
+	padding: .8em 1.5em;
+	background: #ffe5b9;
+	position: relative;
+}
+.detail_pic{padding-bottom: 1em;}
+/*.detail_pic img{border: 1px solid #aad4b3;}*/
+
+.return{
+	position: absolute;
+    top: 10px;
+    left: 20px;
+    color: #000;
+    font-size: 18px;
+    cursor: pointer;
+}
+.return:hover{
+	color: #f60;
+}

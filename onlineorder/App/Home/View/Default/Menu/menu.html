@@ -1,0 +1,81 @@
+
+<script>
+	function getSubmenu(id){
+		$.ajax({
+			type:"POST",
+			url:"{:U('Menu/sub_Menu')}",
+			data:{"id":id},
+			dataType:"json",
+			success:function(data){
+				$('.dishes_list').empty();
+				for (var i = data.length - 1; i >= 0; i--) {
+
+					var html='<a href="/onlineorder/index.php/Home/Menu/detail_Menu/id/'+data[i].id+'.html" target="_self"><figure><div class="dishes_img"><img src="'+data[i].small_pic+'" alt=""></div><figcaption class="dishes_info"><ul><li><span class="dishes_name">'+data[i].name+'</span></li><li><span class="sales_volume">￥'+data[i].price+'</span></li></ul></figcaption></figure></a>';
+					$('.dishes_list').append(html);
+				};
+				$('.pages').replaceWith();
+			},
+			error:function(){
+				alert("获取失败。");
+			}
+		});
+	}
+
+	function getFristmenu(id){
+		$.ajax({
+			type:"POST",
+			url:"{:U('Menu/first_Menu')}",
+			data:{"id":id},
+			dataType:"json",
+			success:function(data){
+				$('.dishes_list').empty();
+				for (var i = data.length - 1; i >= 0; i--) {
+					console.log(data[i].id);
+					var html='<a href="/onlineorder/index.php/Home/Menu/detail_Menu/id/'+data[i].id +'.html" target="_self"><figure><div class="dishes_img"><img src="'+data[i].small_pic+'"></div><figcaption class="dishes_info"><ul><li><span class="dishes_name">'+data[i].name+'</span></li><li><span class="sales_volume">￥'+data[i].price+'</span></li></ul></figcaption></figure></a>';
+					$('.dishes_list').append(html);
+				};
+			},
+			error:function(){
+				alert("获取失败。");
+			}
+		});
+	}
+</script>
+<div class="container">
+		<div class="row detail_menu">
+			<ul class="menu_container">
+				<foreach name="dishtype" item="d">
+				<li class="">
+					<p class="menu_firstType">{$d.name}</p>
+					<ul class="menu_list sub_menu2">
+						<li><a onclick='getFristmenu({$d['id']})'>全部</a></li>
+						<foreach name="sub_dishtype" item="s">
+							<if condition="$s['typeid'] eq $d['id']">
+							<li><a onclick="getSubmenu({$s['id']})">{$s.name}</a></li>
+							</if>
+						</foreach>
+					</ul>
+				</li>
+				</foreach>
+			</ul>
+		</div>
+		<div class="dishes_list">
+			<foreach name="dishs" item="s">
+				<a href='{:U("Menu/detail_Menu",array("id"=>$s["id"]))}' target="_self">
+					<figure>
+						<div class="dishes_img"><img src="{$s.small_pic}" alt=""></div>
+						<figcaption class="dishes_info">
+							<ul>
+								<li><span class="dishes_name">{$s.name}</span></li>
+								<li><span class="sales_volume">￥{$s.price}</span></li>
+							</ul>
+						</figcaption>
+					</figure>
+				</a>
+			</foreach>
+		</div>
+	<div class="pages">
+		{$page}
+	</div>
+</div>
+	

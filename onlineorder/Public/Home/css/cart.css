@@ -1,0 +1,148 @@
+#cart_list{border-radius: 5px;position: relative;border: 1px solid #fff;
+	min-height: 665px;
+}
+.cart_list{
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: -1;
+	background: rgba(255, 229, 185, 0.6);
+	min-height: 40em;
+}
+#cart_list form{position: relative;padding: 2em 0; min-height: 40em;}
+.dishlist_group{
+	background: #fff;
+	border-radius: 5px;
+	margin-top: 2em;
+}
+.lace_top{
+	background-image:  url('../image/cart_top_bg.png');
+	background-repeat: repeat-x;
+	height: 2em;
+	position: relative;
+	top: -1.3em;
+}
+.lace_bottom{
+	margin-bottom: 2em;
+	background-image: url('../image/cart_bottom_bg.png');
+	background-repeat: repeat-x;
+	height: 2em;
+	position: relative;
+	top: 2em;
+}
+#cart_list figure{
+	padding: 1em 0;
+	margin: 0 1em;
+	position: relative;
+	border-bottom: 1px solid #ccc;
+}
+#cart_list figure figcaption{
+	display: inline-block;
+}
+.cart_dishlist_info{
+
+}
+.cart_dishlist_info>span{
+	display: inline-block;
+	font-size: 20px;
+	color: #51d4bd;
+	width: 150px;
+	padding: 0 15px;
+}
+.cart_dishlist_info label{
+	margin: 0 10px;
+	min-width: 9em;
+}
+.cart_dishlist_info input{
+	font-size: 16px;
+	height: 1em;
+	width: 2em;
+	line-height: 1em;
+	border: none;
+	padding: 5px 0;
+	text-align: center;
+}
+.single_price input{
+	width: 2em;
+	background: transparent;
+}
+
+.cart_amount{
+	padding: 3px 10px;
+    position: relative;
+    top: 2px;
+}
+#cartamount{border: none;}
+.delete_dish{
+	color: #555;
+	position: absolute;
+	right: 1em;
+	top: 1em;
+	padding: 5px 10px;
+	line-height: 1.5em;
+}
+#seat_select{padding: 2px 5px 6px 5px;}
+.price_group{display: inline-block; text-align: right; position: relative;}
+.price_group span{padding-right: 5px;}
+.price_group input{padding: 5px;width: 40px;}
+.meal_date{padding: 3px;}
+.price_group,#seat_select,.meal_date{margin: 0 10px;}
+#total_button{
+	background: #fff;
+    display: inline-block;
+    position: absolute;
+    top: 1em;
+    right: 1em; 
+    font-size: 1.5em;
+    letter-spacing: 8px;
+    padding: .4em .4em .4em .8em;
+    border-radius: 5px;
+    border: none;
+
+}
+
+/* 订单页面 */
+.ordertable{
+	width: 90%;
+	text-align: center;
+	border: 1px solid #ccc;
+	margin: 1em auto;
+	border-radius: 8px;
+}
+
+.list td{
+	border-top: 1px solid #ccc;
+
+}
+
+.ordertable th,.ordertable td{
+	padding:1em 0; 
+}
+.ordertable a{
+	cursor: pointer;
+}
+.details{
+	color: #000;
+}
+.details-sub ul{
+	border-radius: 8px;
+	padding: 10px;
+	width:97%; 
+	margin:0 auto;
+	border: 1px solid #ccc;
+}
+
+.details-sub li span{
+	display: inline-block;
+	width: 20%;
+	line-height: 5em;
+	position: relative;
+}
+.details-sub li span img{
+	width: 3em;
+	height: 3em;
+	position: relative;
+	top: 1em;
+}
